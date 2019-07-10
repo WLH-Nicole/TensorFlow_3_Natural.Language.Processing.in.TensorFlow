@@ -1,1 +1,1 @@
-# TensorFlow_3_Natural.Language.Processing.in.TensorFlow
+## Natural Language Processing in TensorFlow (TensorFlow in Practice Specialization offered by deeplearning.ai on Coursera)
